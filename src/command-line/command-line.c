@@ -7,7 +7,7 @@
 #include <linux/kernel.h>
 #include <linux/stat.h>
 #include <linux/printk.h>
-#include "cla.h"
+#include "command-line.h"
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Roshan Kumar");
